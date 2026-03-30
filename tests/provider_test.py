@@ -19,10 +19,6 @@ def get_tenant_a() -> str:
     return "tenant-a"
 
 
-def get_tenant_b() -> str:
-    return "tenant-b"
-
-
 @pytest.fixture
 def container():
     """Create a test container with TenantSingleton."""
