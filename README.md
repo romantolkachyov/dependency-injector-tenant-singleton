@@ -1,18 +1,8 @@
-.. image:: https://img.shields.io/github/actions/workflow/status/romantolkachyov/dependency-injector-tenant-singleton/build.yml?branch=master
-   :target: https://github.com/romantolkachyov/dependency-injector-tenant-singleton/actions
-   :alt: Build Status
-
-.. image:: https://img.shields.io/pypi/v/dependency_injector_tenant_singleton.svg
-   :target: https://pypi.org/project/dependency-injector-tenant-singleton/
-   :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/pyversions/dependency_injector_tenant_singleton.svg
-   :target: https://pypi.org/project/dependency-injector-tenant-singleton/
-   :alt: Supported Python versions
-
-.. image:: https://img.shields.io/pypi/l/dependency_injector_tenant_singleton.svg
-   :target: https://pypi.org/project/dependency-injector-tenant-singleton/
-   :alt: License
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dependency_injector_tenant_singleton)
+![Build Status](https://img.shields.io/github/actions/workflow/status/romantolkachyov/dependency-injector-tenant-singleton/build.yml?branch=master)
+![Latest Version](https://img.shields.io/pypi/v/dependency_injector_tenant_singleton.svg)
+![Supported Python versions](https://img.shields.io/pypi/pyversions/dependency_injector_tenant_singleton.svg)
+![License](https://img.shields.io/pypi/l/dependency_injector_tenant_singleton.svg)
 
 # dependency-injector-tenant-singleton
 
