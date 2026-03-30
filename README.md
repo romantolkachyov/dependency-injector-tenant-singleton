@@ -1,5 +1,6 @@
+![PyPI - Python Version](https://img.shields.io/pypi/v/dependency-injector-tenant-singleton
+)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/romantolkachyov/dependency-injector-tenant-singleton/build.yml?branch=master)
-![Latest Version](https://img.shields.io/pypi/v/dependency_injector_tenant_singleton.svg)
 ![Supported Python versions](https://img.shields.io/pypi/pyversions/dependency-injector-tenant-singleton)
 ![License](https://img.shields.io/pypi/l/dependency-injector-tenant-singleton)
 
