@@ -1,0 +1,16 @@
+[project]
+name = "dependency-injector-tenant-singleton"
+version = "0.9.0"
+description = "Tenant-scoped singleton provider for dependency-injector framework"
+readme = "README.md"
+authors = [
+    { name = "Roman Tolkachyov", email = "roman@tolkachyov.name" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "dependency-injector"
+]
+
+[build-system]
+requires = ["uv_build>=0.10.0,<0.11.0"]
+build-backend = "uv_build"
