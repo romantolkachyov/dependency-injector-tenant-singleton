@@ -13,16 +13,35 @@ dev = [
 
 [project]
 name = "dependency-injector-tenant-singleton"
-version = "1.0.0"
+version = "1.0.1"
 description = "Tenant-scoped singleton provider for dependency-injector framework"
+keywords = ["dependency-injector", "provider", "singleton"]
 readme = "README.md"
 authors = [
+  {name = "Roman Tolkachyov", email = "roman@tolkachyov.name"}
+]
+maintainers = [
   {name = "Roman Tolkachyov", email = "roman@tolkachyov.name"}
 ]
 requires-python = ">=3.10"
 dependencies = [
   "dependency-injector"
 ]
+license = "MIT"
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14"
+]
+
+[project.urls]
+Homepage = "https://github.com/romantolkachyov/dependency-injector-tenant-singleton"
+Repository = "https://github.com/romantolkachyov/dependency-injector-tenant-singleton.git"
+Issues = "https://github.com/romantolkachyov/dependency-injector-tenant-singleton/issues"
 
 [tool.pyright]
 venvPath = "."

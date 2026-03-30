@@ -162,7 +162,7 @@ wheels = [
 
 [[package]]
 name = "dependency-injector-tenant-singleton"
-version = "1.0.0"
+version = "1.0.1"
 source = { editable = "." }
 dependencies = [
     { name = "dependency-injector" },
