@@ -13,7 +13,7 @@ dev = [
 
 [project]
 name = "dependency-injector-tenant-singleton"
-version = "0.9.0"
+version = "1.0.0"
 description = "Tenant-scoped singleton provider for dependency-injector framework"
 readme = "README.md"
 authors = [
