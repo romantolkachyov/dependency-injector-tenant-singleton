@@ -27,3 +27,10 @@ dependencies = [
 [tool.pyright]
 venvPath = "."
 venv = ".venv"
+
+[tool.pytest.ini_options]
+addopts = [
+  "--cov-report=term-missing",
+  "--cov-branch",
+  "--cov-fail-under=100"
+]
